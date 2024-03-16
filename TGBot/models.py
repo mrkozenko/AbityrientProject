@@ -53,7 +53,6 @@ TEMPLATE_BLOCKS_CHOICES = (
     ("START", "СТАРТ"),
     ("CONTACTS", "КОНТАКТИ"),
     ("SPECIALTY", "СПЕЦІАЛЬНОСТІ"),
-    ("QUIZ", "ВІКТОРИНИ"),
 )
 
 
