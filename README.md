@@ -4,5 +4,7 @@
 pip install -r requirements.txt<br/>
 Перейменувати файл .env-example на .env та встановити токен бота<br/>
 python manage.py migrate<br/>
-python manage.py runserver<br/>
+python manage.py runserver 0.0.0.0:8000<br/>
 python manage.py runbot
+
+<h1>Перед запуском перевірте чи відкритий порт 8000</h1>
