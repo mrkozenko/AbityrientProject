@@ -8,3 +8,7 @@ python manage.py runserver 0.0.0.0:8000<br/>
 python manage.py runbot
 
 <h1>Перед запуском перевірте чи відкритий порт 8000</h1>
+
+<br>
+nohup python3 manage.py runserver 0.0.0.0:8000 & 
+
